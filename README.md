@@ -12,7 +12,7 @@
 * Lesson 2.1 – Quantifying the sentiment of text data
   * A learning objective: Understand how sentiment is actually quantified and get a brief overview of different lexicons (AFINN, bing, nrc).
  * Lesson 2.2 – Sentiment Analysis with tidytext
-  * A learning objective: How to use `tidytext::get_sentiments()`
+   * A learning objective: How to use `tidytext::get_sentiments()`
 * Lesson 2.3 - Sentiment Analysis with sentimentr
   * A learning objective: How to use `sentimentr::get_sentences()` and `sentimentr::sentiment_by()` in a tidy way.
 * Lesson 2.4 - Sentiment Analysis with `textdata`
